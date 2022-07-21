@@ -1,0 +1,6 @@
+C:\Users\nithi\onedrive\documents\visual studio 2012\Projects\set1function\set1function\bin\Debug\set1function.exe.config
+C:\Users\nithi\onedrive\documents\visual studio 2012\Projects\set1function\set1function\bin\Debug\set1function.exe
+C:\Users\nithi\onedrive\documents\visual studio 2012\Projects\set1function\set1function\bin\Debug\set1function.pdb
+C:\Users\nithi\onedrive\documents\visual studio 2012\Projects\set1function\set1function\obj\Debug\set1function.csprojResolveAssemblyReference.cache
+C:\Users\nithi\onedrive\documents\visual studio 2012\Projects\set1function\set1function\obj\Debug\set1function.exe
+C:\Users\nithi\onedrive\documents\visual studio 2012\Projects\set1function\set1function\obj\Debug\set1function.pdb

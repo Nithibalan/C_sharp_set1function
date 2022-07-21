@@ -1,0 +1,6 @@
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1function\ques1sum\bin\Debug\ques1sum.exe.config
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1function\ques1sum\bin\Debug\ques1sum.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1function\ques1sum\bin\Debug\ques1sum.pdb
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1function\ques1sum\obj\Debug\ques1sum.csprojResolveAssemblyReference.cache
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1function\ques1sum\obj\Debug\ques1sum.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1function\ques1sum\obj\Debug\ques1sum.pdb
